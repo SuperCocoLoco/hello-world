@@ -1,2 +1,2 @@
 # hello-world
-My first Hello World repository.
+My first Hello World branch repository.
